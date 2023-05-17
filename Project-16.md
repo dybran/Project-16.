@@ -16,6 +16,11 @@ To write quality Terraform codes, we need to:
 
 - Understand the goal of the desired infrastructure.
 - Ability to effectively use up to date Terraform documentation. Click [here](https://registry.terraform.io/)
+
+The resources to be created include:
+
+- A VPC
+- 2 Public subnets
   
 
 __CREATE S3 BUCKET__
