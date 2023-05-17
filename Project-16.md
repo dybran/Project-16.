@@ -19,8 +19,10 @@ To write quality Terraform codes, we need to:
 
 The resources to be created include:
 
+- S3 buket
 - A VPC
 - 2 Public subnets
+
   
 
 __CREATE S3 BUCKET__
