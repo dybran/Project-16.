@@ -2,6 +2,27 @@
 
 In this project, I will be automating the  __AWS infrastructure for 2 websites__ that I manually created in [Project-15](https://github.com/dybran/Project-15/blob/main/Project-15.md) using __Terraform__.
 
+__BENEFITS:__
+
+The benefits of using Terraform in this Project include:
+
+- __Improved collaboration:__
+It allows teams to define and manage infrastructure using version control, which makes it easier for multiple people to collaborate and work on the same codebase. This can help improve collaboration and reduce the risk of errors - This is implemented in [Project-18](https://github.com/dybran/Project-18/blob/main/Project-18.md) and [Project-19](https://github.com/dybran/Project-19/blob/main/Project-19.md).
+
+- __Version history:__
+It automatically maintains a version history of your infrastructure, which makes it easy to roll back to previous versions if necessary. This can help protect against mistakes and ensure that you can recover from failures quickly..
+
+- __Consistency:__
+It allows you to define your infrastructure using a high-level configuration language, which means that you can specify the desired state of your infrastructure in a consistent and predictable way.
+
+- __Reusability:__
+It allows you to define infrastructure as modular components, which can be easily reused across multiple deployments. This can help reduce duplication and make it easier to manage your infrastructure at scale - This is implemented in [Project-18](https://github.com/dybran/Project-18/blob/main/Project-18.md).
+
+- __Portable across cloud providers:__
+It is portable across different cloud providers, which means that you can use the same tools and processes to manage your infrastructure regardless of where it is deployed.
+
+Overall, Terraform offers a number of benefits for managing infrastructure as code. It has become a mandatory tool to set up reproducible multi-cloud infrastructure.
+
 __AWS MULTIPLE WEBSITE ARCHITECTURE__
 
 ![](./images/tooling_project_16.png)
