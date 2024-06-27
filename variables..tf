@@ -40,5 +40,4 @@ variable "tags" {
 
 variable "name" {
   type = string
-  default = "narbyd"
 }
