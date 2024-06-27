@@ -1,9 +1,9 @@
 variable "region" {
-  default = "us-east-1"
+  description = "aws region"
 }
 
 variable "vpc_cidr" {
-  default = "172.16.0.0/16"
+  description = The aws vpc"
 }
 
 variable "enable_dns_support" {
