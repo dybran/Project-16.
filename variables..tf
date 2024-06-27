@@ -3,7 +3,7 @@ variable "region" {
 }
 
 variable "vpc_cidr" {
-  description = The aws vpc"
+  description = "The aws vpc"
 }
 
 variable "enable_dns_support" {
